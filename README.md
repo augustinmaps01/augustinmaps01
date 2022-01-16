@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning web development stacks
 - 💞️ I love doing web/Graphicdesign
 - 📫 How to reach me linkedin.com/in/augustin-maputol-a50406202/
--   my specialty is web design
-- I'll Publish my projects here on Github
+- ❤️  my specialty is web design
+- 🌠 I'll Publish my projects here on Github
 
 <!---
 augustinmaps01/augustinmaps01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
